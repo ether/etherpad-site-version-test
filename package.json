@@ -1,0 +1,21 @@
+{
+  "name": "etherpad-site-version-test",
+  "description": "Logic for remotely testing a sites Etherpad Version",
+  "version": "0.0.1",
+  "author": {
+    "name": "John McLear",
+    "email": "john@mclear.co.uk",
+    "url": "http://mclear.co.uk"
+  },
+  "dependencies": {
+    "async":"*",
+    "request":"*"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ether/etherpad-site-version-test.git"
+  }
+}
